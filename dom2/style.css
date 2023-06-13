@@ -1,0 +1,15 @@
+.container {
+  background: lightblue;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.color {
+	color: red;
+}
+.size {
+	font-size: 26px;
+}
