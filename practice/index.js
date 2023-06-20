@@ -120,3 +120,7 @@ next.addEventListener("click", () => {
 prev.addEventListener("click", () => {
   buttonAction("prev");
 });
+
+setInterval(() => {
+	buttonAction("next");
+}, 2000)
